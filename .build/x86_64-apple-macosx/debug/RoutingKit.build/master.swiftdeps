@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "629b26bedf514fa5f0422422a23ed169"
+build_time: [1607091040, 604399000]
+inputs:
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/routing-kit/Sources/RoutingKit/Parameters.swift": [1607091007, 649094373]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/routing-kit/Sources/RoutingKit/PathComponent.swift": [1607091007, 649347543]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/routing-kit/Sources/RoutingKit/Router.swift": [1607091007, 649725074]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/routing-kit/Sources/RoutingKit/TrieRouter.swift": [1607091007, 650148008]

@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "548cedd0fca8063cd4b8d27f7c09c6e0"
+build_time: [1607091167, 947359000]
+inputs:
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Connection.swift": [1607091001, 242171673]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool.swift": [1607091001, 304474556]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionsState.swift": [1607091001, 244073102]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/FileDownloadDelegate.swift": [1607091001, 244603035]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+HTTPCookie.swift": [1607091001, 245216100]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient.swift": [1607091001, 246063598]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClientProxyHandler.swift": [1607091001, 246425619]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPHandler.swift": [1607091001, 247007826]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/NWErrorHandler.swift": [1607091001, 247613286]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/TLSConfiguration.swift": [1607091001, 247920594]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestValidation.swift": [1607091001, 248231086]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/StringConvertibleInstances.swift": [1607091001, 248659679]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Utils.swift": [1607091001, 248964690]

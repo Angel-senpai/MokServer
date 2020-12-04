@@ -1,0 +1,4 @@
+module CMultipartParser {
+    umbrella "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/vapor/Sources/CMultipartParser/include"
+    export *
+}

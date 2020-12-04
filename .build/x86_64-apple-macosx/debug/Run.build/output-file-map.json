@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/Sources/Run/main.swift": {
+    "dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/Run.build/main.d",
+    "object": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/Run.build/main.swiftdeps"
+  }
+}

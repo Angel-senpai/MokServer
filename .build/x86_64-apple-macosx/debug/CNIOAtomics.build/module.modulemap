@@ -1,0 +1,4 @@
+module CNIOAtomics {
+    umbrella header "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+    export *
+}
