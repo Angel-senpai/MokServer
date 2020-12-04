@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "8b40239f92f3e9ee8042a2519e8210f0"
+build_time: [1607091151, 210268000]
+inputs:
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/Base64.swift": [1607091008, 361782614]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketClientUpgrader.swift": [1607091008, 362115991]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketServerUpgrader.swift": [1607091008, 362439995]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/SHA1.swift": [1607091008, 362697118]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [1607091008, 362946691]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrame.swift": [1607091008, 363209765]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [1607091008, 363633369]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [1607091008, 364050305]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketOpcode.swift": [1607091008, 364380330]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": [1607091008, 364723262]

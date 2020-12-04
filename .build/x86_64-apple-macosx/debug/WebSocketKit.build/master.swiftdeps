@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "4e1c2f7d1a9c5c025dcf70659ae168b0"
+build_time: [1607091163, 777913000]
+inputs:
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/websocket-kit/Sources/WebSocketKit/Exports.swift": [1607090999, 689818891]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/websocket-kit/Sources/WebSocketKit/HTTPInitialRequestHandler.swift": [1607090999, 690239439]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket+Connect.swift": [1607090999, 690536894]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket.swift": [1607090999, 690867379]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketClient.swift": [1607090999, 691131944]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketHandler.swift": [1607090999, 691752638]

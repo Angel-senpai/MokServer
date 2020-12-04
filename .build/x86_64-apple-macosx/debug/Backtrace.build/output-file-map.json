@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/Backtrace.build/master.swiftdeps"
+  },
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-backtrace/Sources/Backtrace/Backtrace.swift": {
+    "dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/Backtrace.build/Backtrace.d",
+    "object": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/Backtrace.build/Backtrace.swift.o",
+    "swiftmodule": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/Backtrace.build/Backtrace~partial.swiftmodule",
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/Backtrace.build/Backtrace.swiftdeps"
+  },
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-backtrace/Sources/Backtrace/Demangle.swift": {
+    "dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/Backtrace.build/Demangle.d",
+    "object": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/Backtrace.build/Demangle.swift.o",
+    "swiftmodule": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/Backtrace.build/Demangle~partial.swiftmodule",
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/Backtrace.build/Demangle.swiftdeps"
+  }
+}

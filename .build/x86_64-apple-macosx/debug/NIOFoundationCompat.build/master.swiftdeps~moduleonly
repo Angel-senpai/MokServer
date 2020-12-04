@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "5e2ddbf771f00d1d8ba74b9b03790515"
+build_time: [1607091143, 343449000]
+inputs:
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": [1607091008, 345228870]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/Codable+ByteBuffer.swift": [1607091008, 345466135]

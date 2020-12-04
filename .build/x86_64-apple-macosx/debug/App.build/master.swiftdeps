@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "21597b63d61e26d2f0744e026c3d7c5a"
+build_time: [1607091201, 40827000]
+inputs:
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/Sources/App/Controllers/AuthController.swift": [1607090485, 741294002]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/Sources/App/Models/RegisterRequest.swift": [1607090439, 30444253]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/Sources/App/Models/RegisterResponse.swift": [1607090451, 498988444]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/Sources/App/configure.swift": [1607076422, 86748388]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/Sources/App/routes.swift": [1607090900, 519751286]

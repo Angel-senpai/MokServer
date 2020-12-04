@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "bd4fbab82ba51fc688e418d1d43e04a4"
+build_time: [1607091147, 312379000]
+inputs:
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolError.swift": [1607091005, 591523057]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolItem.swift": [1607091005, 591877179]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolSource.swift": [1607091005, 592138297]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/EventLoopConnectionPool.swift": [1607091005, 592466277]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/EventLoopGroupConnectionPool.swift": [1607091005, 592841243]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Flatten.swift": [1607091005, 593243864]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Future.swift": [1607091005, 593591973]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Collection+Flatten.swift": [1607091005, 595197378]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/EventLoopFutureQueue+Sequence.swift": [1607091005, 595488063]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/EventLoopFutureQueue.swift": [1607091005, 596142496]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Collection.swift": [1607091005, 596425766]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Optional.swift": [1607091005, 596767202]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Throwing.swift": [1607091005, 597047451]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Transform.swift": [1607091005, 597327147]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/FutureExtensions.swift": [1607091005, 597823843]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/FutureOperators.swift": [1607091005, 598150725]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/async-kit/Sources/AsyncKit/Exports.swift": [1607091005, 598652861]

@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "ebfc12bcc9b56ba488c49dec17ff8090"
+build_time: [1607091156, 328884000]
+inputs:
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/DynamicHeaderTable.swift": [1607091002, 9052067]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKDecoder.swift": [1607091002, 9443023]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKEncoder.swift": [1607091002, 10053668]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKErrors.swift": [1607091002, 10389229]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKHeader.swift": [1607091003, 39048127]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HeaderTables.swift": [1607091003, 39605391]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanCoding.swift": [1607091002, 11971300]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanTables.swift": [1607091002, 13708216]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IndexedHeaderTable.swift": [1607091002, 14185613]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IntegerCoding.swift": [1607091002, 14528230]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/StaticHeaderTable.swift": [1607091002, 23117386]

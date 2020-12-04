@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/master.swiftdeps"
+  },
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/Sources/App/Controllers/AuthController.swift": {
+    "dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/Controllers/AuthController.d",
+    "object": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/Controllers/AuthController.swift.o",
+    "swiftmodule": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/Controllers/AuthController~partial.swiftmodule",
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/Controllers/AuthController.swiftdeps"
+  },
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/Sources/App/Models/RegisterRequest.swift": {
+    "dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/Models/RegisterRequest.d",
+    "object": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/Models/RegisterRequest.swift.o",
+    "swiftmodule": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/Models/RegisterRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/Models/RegisterRequest.swiftdeps"
+  },
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/Sources/App/Models/RegisterResponse.swift": {
+    "dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/Models/RegisterResponse.d",
+    "object": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/Models/RegisterResponse.swift.o",
+    "swiftmodule": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/Models/RegisterResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/Models/RegisterResponse.swiftdeps"
+  },
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/Sources/App/configure.swift": {
+    "dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/configure.d",
+    "object": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/configure.swiftdeps"
+  },
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/Sources/App/routes.swift": {
+    "dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/routes.d",
+    "object": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/routes.swift.o",
+    "swiftmodule": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/App.build/routes.swiftdeps"
+  }
+}

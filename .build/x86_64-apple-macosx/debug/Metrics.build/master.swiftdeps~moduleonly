@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "e7c4f82bf277007cda884ce1206aa081"
+build_time: [1607091062, 23673000]
+inputs:
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-metrics/Sources/Metrics/Metrics.swift": [1607091001, 608638085]

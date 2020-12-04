@@ -1,0 +1,4 @@
+module CCryptoBoringSSL {
+    umbrella header "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-crypto/Sources/CCryptoBoringSSL/include/CCryptoBoringSSL.h"
+    export *
+}

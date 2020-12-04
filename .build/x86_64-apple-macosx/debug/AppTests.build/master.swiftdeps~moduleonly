@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "c292548e5ad7750e71602a7d1051c795"
+build_time: [1607091207, 695697000]
+inputs:
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/Tests/AppTests/AppTests.swift": [1607076296, 929597940]

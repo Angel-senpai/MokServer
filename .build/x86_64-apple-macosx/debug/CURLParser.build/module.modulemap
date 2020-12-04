@@ -1,0 +1,4 @@
+module CURLParser {
+    umbrella "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/vapor/Sources/CURLParser/include"
+    export *
+}

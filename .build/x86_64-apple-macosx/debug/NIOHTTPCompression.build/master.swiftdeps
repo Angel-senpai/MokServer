@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "329779572b4cce4dd5a1d4dde3a05a2f"
+build_time: [1607091153, 200020000]
+inputs:
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPCompression.swift": [1607091004, 844035410]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPDecompression.swift": [1607091004, 844373970]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPRequestCompressor.swift": [1607091004, 844662164]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPRequestDecompressor.swift": [1607091004, 844969860]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPResponseCompressor.swift": [1607091004, 845201539]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPResponseDecompressor.swift": [1607091004, 845474470]

@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "3f4a4823dac9d09300486394347f830b"
+build_time: [1607091201, 39208000]
+inputs:
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/vapor/Sources/XCTVapor/Exports.swift": [1607091000, 313334914]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/vapor/Sources/XCTVapor/Utilities.swift": [1607091000, 313732625]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/vapor/Sources/XCTVapor/XCTApplication.swift": [1607091000, 314066774]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/vapor/Sources/XCTVapor/XCTHTTPRequest.swift": [1607091000, 314348430]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/vapor/Sources/XCTVapor/XCTHTTPResponse.swift": [1607091000, 314597535]
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/vapor/Sources/XCTVapor/XCTVaporTests.swift": [1607091000, 314858611]

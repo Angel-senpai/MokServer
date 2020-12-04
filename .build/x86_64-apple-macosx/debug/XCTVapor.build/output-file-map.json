@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/master.swiftdeps"
+  },
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/vapor/Sources/XCTVapor/Exports.swift": {
+    "dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/Exports.d",
+    "object": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/Exports.swift.o",
+    "swiftmodule": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/Exports.swiftdeps"
+  },
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/vapor/Sources/XCTVapor/Utilities.swift": {
+    "dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/Utilities.d",
+    "object": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/Utilities.swift.o",
+    "swiftmodule": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/Utilities.swiftdeps"
+  },
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/vapor/Sources/XCTVapor/XCTApplication.swift": {
+    "dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTApplication.d",
+    "object": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTApplication.swift.o",
+    "swiftmodule": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTApplication~partial.swiftmodule",
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTApplication.swiftdeps"
+  },
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/vapor/Sources/XCTVapor/XCTHTTPRequest.swift": {
+    "dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTHTTPRequest.d",
+    "object": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTHTTPRequest.swift.o",
+    "swiftmodule": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTHTTPRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTHTTPRequest.swiftdeps"
+  },
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/vapor/Sources/XCTVapor/XCTHTTPResponse.swift": {
+    "dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTHTTPResponse.d",
+    "object": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTHTTPResponse.swift.o",
+    "swiftmodule": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTHTTPResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTHTTPResponse.swiftdeps"
+  },
+  "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/checkouts/vapor/Sources/XCTVapor/XCTVaporTests.swift": {
+    "dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTVaporTests.d",
+    "object": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTVaporTests.swift.o",
+    "swiftmodule": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTVaporTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/angelsenpai/Documents/GeekBrains/mokServer/VaporApp/.build/x86_64-apple-macosx/debug/XCTVapor.build/XCTVaporTests.swiftdeps"
+  }
+}
